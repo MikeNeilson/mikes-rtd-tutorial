@@ -11,7 +11,7 @@ how to :ref:`installation` the project.
 
 .. note::
 
-   This project is under active development.
+   This project is not under active development; it is just a test of read-the-docs.
 
 Contents
 --------
