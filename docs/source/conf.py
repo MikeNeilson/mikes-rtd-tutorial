@@ -24,7 +24,7 @@ intersphinx_mapping = {
     'sphinx': ('https://www.sphinx-doc.org/en/master/', None),
 }
 intersphinx_disabled_domains = ['std']
-
+language = ["en","de"]
 locale_dirs = ['locale/']
 gettext_compact = False
 
